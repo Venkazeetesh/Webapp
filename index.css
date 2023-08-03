@@ -1,0 +1,81 @@
+.container 
+{
+    width: 1000px;
+    margin: auto;
+    background-color: #2e7b94;
+    box-sizing: border-box;
+    flex-wrap: wrap-reverse;
+}
+.top_header{
+    margin: auto;
+    background-color:#169FCC;
+}
+.row{
+
+    display:flex;
+    width:1000px;
+    height: 125px;
+    justify-content: center;
+    border:1px solid black;
+  
+}
+.col{
+    background-image: url("/jplogo (1).gif");
+    border: 2px solid black;
+    margin: 20px;
+    height: 50px;
+    width: 800px;
+    
+   
+}
+.con {
+  
+    width: auto;
+    
+    padding-left: 10px;
+    height: 200px;
+    background-color: #169FCC;
+}
+.col-1{
+    height:50px;
+    width: 8.33%;
+ 
+    
+}
+.col-2{
+    height:50px;
+    width: 8.33%;
+   
+}
+.colo-1{
+    width: 50px;
+    height: 50px;
+    font-size: large;
+    text-align: center;
+    color:white;
+}
+.colo{
+    display: flex;
+    justify-content: center;
+    
+}
+.jk{
+    margin-top: 500px;
+    width:1000px;
+    background-color: #169FCC;
+}
+.img{
+    width: 100%;
+    height: 200px;
+    background-image: url('/jplogo (1).gif');
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+.banner{
+    width: 100%;
+    height: 1000px;
+    background-image: url(/CAROUSEL\ 4.png);
+    background-size:100%;
+    background-repeat: no-repeat;
+}
